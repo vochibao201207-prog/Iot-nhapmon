@@ -1,4 +1,0 @@
-Name: Võ Chí Bảo
-Student ID: 25139004
-git commit -m "docs: quê quán Long An"
-git commit -m "feat: học tại trường đại học SPKT"
