@@ -1,0 +1,4 @@
+Name: Nguyễn Thăng Long
+Student ID: 25139024
+git commit -m "docs: quê quán Vĩnh Long"
+git commit -m "feat: học tại trường đại học SPKT" echo git commit -m "ngồi nhìn bạn làm bài"
