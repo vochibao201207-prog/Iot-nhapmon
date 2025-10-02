@@ -1,8 +1,5 @@
-$ echo "Name: Nguyễn Thăng Long" > Nguyenthanglong.txt
-$ echo "Student ID: 25139024" >> Nguyenthanglong.txt
-$ echo "git commit -m \"docs: quê quán Vĩnh Long\"" >> Nguyenthanglong.txt
-$ echo "git commit -m \"feat: học tại trường đại học SPKT\"" >> Nguyenthanglong.txt
-$ echo "git commit -m \"ngồi nhìn bạn làm bài\"" >> Nguyenthanglong.txt
-$ git add Nguyenthanglong.txt
-$ git commit -m "docs: thêm file Nguyenthanglong.txt chứa thông tin và lệnh git"
-$ git push origin main
+Name: Nguyễn Thăng Long
+Student ID: 25139024
+git commit -m "docs: quê quán Vĩnh Long"
+git commit -m "feat: học tại trường đại học SPKT"
+git commit -m "ngồi nhìn bạn làm bài"
